@@ -47,6 +47,7 @@ Checkpointly uses **artificial intelligence** to:
 - ✅ Gamify progress (XP, level, streak)
 - ✅ Visually track achievements
 - ✅ Provide a freeze token system that offers flexibility
+- ✅ Connect with friends and share your adventures
 
 ## ✨ Key Features
 
@@ -80,6 +81,12 @@ Advanced OpenAI system that creates personalized steps based on:
 - **Streak Tracking**: Track consecutive days of activity
 - **Daily Bonus**: Random rewards (10-100 XP or freeze token)
 - **Freeze Tokens**: Save your streak when you miss a day
+
+### 👥 Social Connections
+
+- **Friends System**: Add friends to your network and stay motivated together
+- **Shared Adventures**: Share your current adventures with friends to keep each other accountable
+- **Social Feed**: See your friends' activity and progress in real-time
 
 ### 🎨 Visual Themes
 
@@ -473,10 +480,10 @@ Detailed instructions in [DEPLOYMENT.md](./docs/DEPLOYMENT.md).
 - [x] Visual themes
 - [x] Daily bonus system
 - [x] Freeze token mechanism
+- [x] Social layer (friend system)
+- [x] Shared adventures
 
 ### V1.1 (Q2 2026)
-- [ ] Social layer (friend system)
-- [ ] Shared adventures
 - [ ] Leaderboards
 - [ ] Community challenges
 
@@ -531,7 +538,7 @@ Project developed by a team dedicated to improving productivity and mental well-
 
 ## 📞 Contact
 
-- Email: gerba69420@gmail.com
+- Email: markogerbus8@gmail.com
 
 ---
 
@@ -593,6 +600,7 @@ Checkpointly koristi **umjetnu inteligenciju** za:
 - ✅ Gamifikaciju napretka (XP, level, streak)
 - ✅ Vizualno praćenje postignuća
 - ✅ Freeze token sustav koji daje fleksibilnost
+- ✅ Povezivanje s prijateljima i dijeljenje avantura
 
 ## ✨ Ključne značajke
 
@@ -626,6 +634,12 @@ Napredni OpenAI sustav koji kreira personalizirane korake na temelju:
 - **Streak Tracking**: Prati uzastopne dane aktivnosti
 - **Dnevni Bonus**: Nasumične nagrade (10-100 XP ili freeze token)
 - **Freeze Tokens**: Spasi svoj streak kada propustiš dan
+
+### 👥 Socijalne Značajke
+
+- **Sustav prijatelja**: Dodajte prijatelje u svoju mrežu i zajedno ostanite motivirani
+- **Dijeljenje avantura**: Podijelite svoje trenutne avanture s prijateljima za međusobnu odgovornost
+- **Socijalni Feed**: Pratite aktivnosti i napredak svojih prijatelja u stvarnom vremenu
 
 ### 🎨 Vizualne Teme
 
@@ -1019,10 +1033,10 @@ Detaljne upute u [DEPLOYMENT.md](./docs/DEPLOYMENT.md).
 - [x] Vizualne teme
 - [x] Dnevni bonus sustav
 - [x] Freeze token mehanizam
+- [x] Socijalni sloj (sustav prijatelja)
+- [x] Dijeljenje avantura
 
 ### V1.1 (Q2 2026)
-- [ ] Social layer (friend system)
-- [ ] Shared adventures
 - [ ] Leaderboards
 - [ ] Community challenges
 
@@ -1077,7 +1091,7 @@ Projekt razvija tim posvećen poboljšanju produktivnosti i mentalne dobrobiti k
 
 ## 📞 Kontakt
 
-- Email: gerba69420@checkpointly.app
+- Email: markogerbus8@gmail.com
 
 ---
 
