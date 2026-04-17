@@ -1,0 +1,71 @@
+{
+  "expo": {
+    "name": "Checkpointly",
+    "slug": "checkpointly",
+    "owner": "gerba",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/checkpointly-SPLASH.png",
+    "scheme": "checkpointly",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gerba.checkpointly",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Potrebno je za odabir ili snimanje profilne slike.",
+        "NSPhotoLibraryUsageDescription": "Potrebno je za odabir profilne slike iz galerije.",
+        "NSPhotoLibraryAddUsageDescription": "Potrebno je za spremanje odabrane profilne slike u aplikaciju.",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/checkpointly-SPLASH.png",
+        "backgroundImage": "./assets/images/checkpointly-SPLASH.png",
+        "monochromeImage": "./assets/images/checkpointly-SPLASH.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.gerba.checkpointly"
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/checkpointly-SPLASH.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/checkpointly-SPLASH.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "backgroundColor": "#000000"
+          }
+        }
+      ],
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "iosUrlScheme": "com.googleusercontent.apps.253689951421-115cl06nndftsil90nsavtoc79d7scbj"
+        }
+      ],
+      "expo-secure-store",
+      "expo-web-browser"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "bc76a788-9104-483d-bdc4-53f9b2463cc2"
+      }
+    }
+  }
+}
