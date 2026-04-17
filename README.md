@@ -529,12 +529,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Project developed by a team dedicated to improving productivity and mental well-being through technology.
 
+Marko Gerbus - @gerbus_marko
+Matej Levanić - @levanic33
+Pablo Koren - @pablo.koren
+
+On Instagram.
+
 ## 🙏 Acknowledgments
 
 - [OpenAI](https://openai.com/) for the GPT API
 - [Expo](https://expo.dev/) for excellent development experience
 - [Railway](https://railway.app/) for simple deployment
 - All beta testers who helped shape the app
+- State commission for the opportunity to present our idea to a wider audience 
+- Mentor for support
+
+Official Software Development Competition Website:
+https://informatika.azoo.hr/kategorija/3/Razvoj-softvera
 
 ## 📞 Contact
 
@@ -1082,12 +1093,23 @@ Ovaj projekt je licenciran pod MIT licencom - pogledajte [LICENSE](LICENSE) dato
 
 Projekt razvija tim posvećen poboljšanju produktivnosti i mentalne dobrobiti kroz tehnologiju.
 
+Marko Gerbus - @gerbus_marko
+Matej Levanić - @levanic33
+Pablo Koren - @pablo.koren
+
+Na Instagramu.
+
 ## 🙏 Zahvale
 
 - [OpenAI](https://openai.com/) za GPT API
 - [Expo](https://expo.dev/) za odličan development experience
 - [Railway](https://railway.app/) za jednostavan deployment
 - Svim beta testerima koji su pomogli oblikovati aplikaciju
+- Državnom povjerenstvu na prilici da iznesemo svoju ideju široj publici
+- Mentoru na podršci
+
+Službena stranica natjecanja:
+https://informatika.azoo.hr/kategorija/3/Razvoj-softvera
 
 ## 📞 Kontakt
 
